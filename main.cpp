@@ -23,7 +23,7 @@ int readHumanMove(const Board& board);
 
 #ifndef NOUGHTS_AND_CROSSES_TEST
 int main()
-{
+{ //Redo pull request
     bool run = true;
     char replay;
     while(run){
